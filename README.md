@@ -6,7 +6,7 @@ Send logs to telegram
 
 # usage example
 ```js
-const builder = require('./index')
+const builder = require('telelogger')
 
 const logger = builder({
   chatId: '-263936734',
