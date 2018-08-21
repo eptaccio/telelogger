@@ -1,4 +1,4 @@
-const builder = require('./index')
+const builder = require('telelogger')
 
 const logger = builder({
   chatId: '-263936734',
